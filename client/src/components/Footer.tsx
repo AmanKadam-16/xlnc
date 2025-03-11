@@ -4,8 +4,8 @@ import { Separator } from '@/components/ui/separator';
 import { Button } from '@/components/ui/button';
 import { ChevronRight, Linkedin } from 'lucide-react';
 import companyLogo from '@/images/xlnc_logo.png';
-import Logo from '@/images/logo/footer_crw_logo.png';
-import Logo1 from '@/images/logo/xlncacademy_logo.jpg';
+import Logo from '@/images/Logo/footer_crw_logo.png';
+import Logo1 from '@/images/Logo/xlncacademy_logo.jpg';
 
 const Footer = () => {
   return (
